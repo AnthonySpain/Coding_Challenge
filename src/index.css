@@ -337,6 +337,7 @@ button.tns-nav-active {
 }
 .product-card__title {
   font-size: 1.4em;
+  margin: 10px 0;
 }
 .product-card__category {
   text-transform: uppercase;
